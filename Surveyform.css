@@ -1,0 +1,53 @@
+#title{
+    text-align: center;
+}
+body{
+    font-family: 'Yomogi', cursive;
+    background-image: url("../download\ \(3\).jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#description{
+    text-align: center;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 20px;
+}
+#container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+#survey-form{
+    padding: 30px;
+}
+#name{
+    margin-top: 5px;
+    width: 50%;
+}
+#email{
+    margin-top: 5px;
+    width: 50%;
+}
+#number{
+    margin-top:5px;
+    width: 50%;
+}
+#dropdown{
+    margin-top: 5px;
+    width: 50%;
+}
+#dropdown-two{
+    margin-top: 5px;
+    width: 50%;
+}
+#survey{
+    margin-top: 5px;
+    width: 100%;
+}
+#submit{
+    width: 100%;
+}
+
